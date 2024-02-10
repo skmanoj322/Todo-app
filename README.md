@@ -100,7 +100,7 @@ The Task Management Application provides simple CRUD (Create, Read, Update, Dele
 #### Delete Todo
 
 ```http
-  DELETE /api/v1/tasks/{id}
+  /api/v1/tasks/{id}
 ```
 
 #### Update Todo
